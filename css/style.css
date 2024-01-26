@@ -1540,10 +1540,10 @@ body {
   .social-icons-styled li a:hover {
     color: #fff;
     background-color: #FDAE02; }
-  .social-icons-styled li a.facebook-bg, .social-icons-styled li a.twitter-bg, .social-icons-styled li a.instagram-bg, .social-icons-styled li a.linkedin-bg, .social-icons-styled li a.youtube-bg {
+  .social-icons-styled li a.whatsapp-bg, .social-icons-styled li a.twitter-bg, .social-icons-styled li a.instagram-bg, .social-icons-styled li a.linkedin-bg, .social-icons-styled li a.youtube-bg {
     color: #fff; }
-  .social-icons-styled li a.facebook-bg {
-    background-color: #3E5B99; }
+  .social-icons-styled li a.whatsapp-bg {
+    background-color: #25d366; }
   .social-icons-styled li a.twitter-bg {
     background-color: #3AAAE1; }
   .social-icons-styled li a.instagram-bg {
@@ -1931,7 +1931,7 @@ div.datedropper .picker .pick-lg-b li {
   cursor: pointer;
   font-size: 15px; }
   .theme-btn:hover {
-    background-color: #ef6767;
+    background-color: #233d63;
     color: #fff; }
     .theme-btn:hover .icon {
       padding-left: 5px; }
